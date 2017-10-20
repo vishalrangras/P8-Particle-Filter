@@ -20,10 +20,24 @@ The goals for this project are to:
 3. Start the simulator and exectue the script run.sh to run the project. `sh run.sh` 
 4. Use clean.sh to clean the build target. `sh clean.sh`
 
+### Attributions ###
+
+I would like to thank Udacity Project Review team for providing valuable insights on cracking this project in their Project Review Video on Youtube.
+I would also like to give attribution to Davinder Chandhok and Oleg Potkin who have helped me with the project and code snippets in the points where I was stuck.
+
 ### Results ###
 
-[image1]: ./data/Result.PNG "Result"
+[image1]: ./data/Result-1.PNG "Result"
+[image2]: ./data/Result-2.PNG "Result"
+[image3]: ./data/Result-3.PNG "Result"
+[image4]: ./data/Result-4.PNG "Result"
 
-<h3 align="center"> Result <h3>
+<h3 align="center"> Results <h3>
 
 ![alt text][image1]
+
+![alt text][image2]
+
+![alt text][image3]
+
+![alt text][image4]
